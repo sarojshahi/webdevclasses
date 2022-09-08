@@ -1,0 +1,8 @@
+.content {
+  height: 1500px;
+  border: solid;
+  margin: 10px 10px 10px 10px;
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+}
